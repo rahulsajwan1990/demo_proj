@@ -1,1 +1,1 @@
-# demo_proj
+# this is a demo project
